@@ -25,7 +25,7 @@ Apart from coding, I enjoy attending tech meetups, exploring new technologies, a
 
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tirta_Samara-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tirtasamara/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tirta_Samara-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tirta-samara/)
 [![GitHub](https://img.shields.io/badge/GitHub-Tirta71-darkgreen?style=flat-square&logo=github)](https://github.com/Tirta71)
 
 Looking forward to collaborating with you! 😊🚀

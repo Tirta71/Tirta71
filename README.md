@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate software engineer with a love for problem-solving and innovation. My journey in computer science and engineering has equipped me with a diverse skill set and a keen interest in exploring new technologies.
+"I'm a passionate front-end developer with a love for problem-solving and innovation. My journey in computer science and engineering has equipped me with a diverse skill set and a keen interest in exploring new technologies."
 
 ## Skills
 

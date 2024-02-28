@@ -9,7 +9,7 @@
 - **Languages:** PHP, Python, JavaScript
 - **Web Development:** HTML5, CSS3, React.js, Tailwind, Boostrap
 - **Backend Development:** Node.js, Express, Laravel
-- **Databases:** MySQL, PostgreSQL, Firestore
+- **Databases:** MySQL
 - **Methodologies:** Agile, Scrum
 
 ## Projects

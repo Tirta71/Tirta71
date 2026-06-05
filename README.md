@@ -143,25 +143,8 @@ A real-time chat application using WebSocket technology for instant communicatio
 
 ---
 
-## 📈 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tirta71&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<br/>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirta71&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br/>
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tirta71&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 

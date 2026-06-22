@@ -1,7 +1,3 @@
-<sub><strong>Tirta71 / README.md</strong></sub>
-
-<br>
-
 ### Hi, I'm Tirta Samara! 🐱
 
 

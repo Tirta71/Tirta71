@@ -9,8 +9,8 @@
 
 
 
-[![Tirta71](https://img.shields.io/badge/Tirta71-0A66C2?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Tirta71)
-[![Follow](https://img.shields.io/github/followers/Tirta71?label=Follow\&style=social)](https://github.com/Tirta71)
+[![Tirta71](https://img.shields.io/badge/Tirta71-0A66C2?style=flat-square&logo=github&logoColor=white)](https://github.com/Tirta71)
+[![GitHub followers](https://img.shields.io/github/followers/Tirta71?style=social)](https://github.com/Tirta71)
 
 ### 🪐 A little more about me...
 
